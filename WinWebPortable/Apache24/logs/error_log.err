@@ -1,0 +1,479 @@
+2024-05-22T19:09:27.295738Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T19:09:27.378589Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-22T19:09:27.378746Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 20540
+2024-05-22T19:09:27.404468Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: cf3bbdec-186e-11ef-8e5f-b04f13f2cfff.
+2024-05-22T19:09:27.410816Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T19:09:27.430493Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 2 in a file operation.
+2024-05-22T19:09:27.430826Z 1 [ERROR] [MY-012646] [InnoDB] File .\ibdata1: 'open' returned OS error 71. Cannot continue operation
+2024-05-22T19:09:27.431173Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2024-05-22T19:11:38.244795Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T19:11:38.436759Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-22T19:11:38.436958Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 14360
+2024-05-22T19:11:38.732350Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T19:11:44.786850Z 1 [ERROR] [MY-012209] [InnoDB] Multiple files found for the same tablespace ID:
+2024-05-22T19:11:44.787191Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 1 = ['Data\sys\sys_config.ibd', 'sys\sys_config.ibd'] 
+2024-05-22T19:11:44.787538Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967278 = ['Data\undo_002', 'undo_002'] 
+2024-05-22T19:11:44.787852Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967279 = ['Data\undo_001', 'undo_001'] 
+2024-05-22T19:11:44.788166Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967294 = ['Data\mysql.ibd', 'mysql.ibd'] 
+2024-05-22T19:11:44.788493Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Failed, retry may succeed.
+2024-05-22T19:11:44.788915Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-05-22T19:11:44.789833Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-05-22T19:11:44.790110Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-05-22T19:11:44.791429Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-22T19:11:44.791987Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-27T13:56:20.980665Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T13:56:21.132692Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T13:56:21.132950Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 17640
+2024-05-27T13:56:21.197097Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T13:56:23.373473Z 1 [ERROR] [MY-012209] [InnoDB] Multiple files found for the same tablespace ID:
+2024-05-27T13:56:23.436982Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 1 = ['Data\sys\sys_config.ibd', 'sys\sys_config.ibd'] 
+2024-05-27T13:56:23.437732Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967278 = ['Data\undo_002', 'undo_002'] 
+2024-05-27T13:56:23.438612Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967279 = ['Data\undo_001', 'undo_001'] 
+2024-05-27T13:56:23.439368Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967294 = ['Data\mysql.ibd', 'mysql.ibd'] 
+2024-05-27T13:56:23.440382Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Failed, retry may succeed.
+2024-05-27T13:56:23.441530Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-05-27T13:56:23.442580Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-05-27T13:56:23.443039Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-05-27T13:56:23.444879Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-27T13:56:23.445797Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-27T13:56:53.059492Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T13:56:53.238668Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T13:56:53.238908Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 20588
+2024-05-27T13:56:53.298236Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T13:56:53.946174Z 1 [ERROR] [MY-012209] [InnoDB] Multiple files found for the same tablespace ID:
+2024-05-27T13:56:53.946853Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 1 = ['Data\sys\sys_config.ibd', 'sys\sys_config.ibd'] 
+2024-05-27T13:56:53.947623Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967278 = ['Data\undo_002', 'undo_002'] 
+2024-05-27T13:56:53.948254Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967279 = ['Data\undo_001', 'undo_001'] 
+2024-05-27T13:56:53.948965Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967294 = ['Data\mysql.ibd', 'mysql.ibd'] 
+2024-05-27T13:56:53.949654Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Failed, retry may succeed.
+2024-05-27T13:56:53.950357Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-05-27T13:56:53.951077Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-05-27T13:56:53.951401Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-05-27T13:56:53.952782Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-27T13:56:53.953927Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-27T13:58:00.951998Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T13:58:01.120575Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T13:58:01.120767Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 22208
+2024-05-27T13:58:01.152666Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T13:58:01.183914Z 1 [ERROR] [MY-012209] [InnoDB] Multiple files found for the same tablespace ID:
+2024-05-27T13:58:01.184410Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 1 = ['Data\sys\sys_config.ibd', 'sys\sys_config.ibd'] 
+2024-05-27T13:58:01.184963Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967278 = ['Data\undo_002', 'undo_002'] 
+2024-05-27T13:58:01.185463Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967279 = ['Data\undo_001', 'undo_001'] 
+2024-05-27T13:58:01.185974Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967294 = ['Data\mysql.ibd', 'mysql.ibd'] 
+2024-05-27T13:58:01.186499Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Failed, retry may succeed.
+2024-05-27T13:58:01.187135Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-05-27T13:58:01.188024Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-05-27T13:58:01.188627Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-05-27T13:58:01.191075Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-27T13:58:01.192324Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-27T13:59:07.367572Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T13:59:07.533204Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T13:59:07.533406Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 16620
+2024-05-27T13:59:07.553915Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T13:59:07.569582Z 1 [ERROR] [MY-012209] [InnoDB] Multiple files found for the same tablespace ID:
+2024-05-27T13:59:07.569902Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 1 = ['Data\sys\sys_config.ibd', 'sys\sys_config.ibd'] 
+2024-05-27T13:59:07.570271Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967278 = ['Data\undo_002', 'undo_002'] 
+2024-05-27T13:59:07.570597Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967279 = ['Data\undo_001', 'undo_001'] 
+2024-05-27T13:59:07.570923Z 1 [ERROR] [MY-012202] [InnoDB] Tablespace ID: 4294967294 = ['Data\mysql.ibd', 'mysql.ibd'] 
+2024-05-27T13:59:07.571260Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Failed, retry may succeed.
+2024-05-27T13:59:07.571653Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-05-27T13:59:07.572211Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-05-27T13:59:07.572531Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-05-27T13:59:07.573902Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-27T13:59:07.574824Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-27T14:00:50.857127Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:00:51.016399Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:00:51.016637Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 9120
+2024-05-27T14:00:51.051371Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:00:51.457874Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:00:51.973111Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:00:51.973825Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:00:52.067752Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:00:52.344452Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:03:32.145798Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:03:32.329139Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:03:32.329306Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 17576
+2024-05-27T14:03:32.360351Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:03:33.289224Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:03:33.519841Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-27T14:03:33.526741Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-27T14:03:33.679294Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:03:33.679624Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:03:33.748000Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:03:34.006801Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:32:43.843878Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:32:43.946932Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:32:43.947161Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 22684
+2024-05-27T14:32:43.984418Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:32:44.837546Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:32:45.255004Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:32:45.255412Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:32:45.306581Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:32:45.582089Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:34:47.013142Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:34:47.240591Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:34:47.240997Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 12672
+2024-05-27T14:34:47.278717Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:34:48.211180Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:34:48.542719Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:34:48.543547Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:34:48.619438Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:34:48.902920Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:35:32.724508Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:35:32.879522Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:35:32.879839Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 17376
+2024-05-27T14:35:32.912404Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:35:32.961579Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 32 in a file operation.
+2024-05-27T14:35:32.962371Z 1 [ERROR] [MY-012615] [InnoDB] The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2024-05-27T14:35:42.967414Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 32 in a file operation.
+2024-05-27T14:35:42.968311Z 1 [ERROR] [MY-012615] [InnoDB] The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2024-05-27T14:35:52.971866Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 32 in a file operation.
+2024-05-27T14:35:52.973031Z 1 [ERROR] [MY-012615] [InnoDB] The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2024-05-27T14:36:02.982696Z 1 [ERROR] [MY-012611] [InnoDB] Operating system error number 32 in a file operation.
+2024-05-27T14:36:02.983852Z 1 [ERROR] [MY-012615] [InnoDB] The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2024-05-27T14:40:10.668259Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:40:10.852233Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:40:10.852453Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 8996
+2024-05-27T14:40:10.893126Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:40:11.842192Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:40:12.216375Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:40:12.216886Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:40:12.275568Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:40:12.547748Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:42:31.852017Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:42:32.138953Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:42:32.139290Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 6548
+2024-05-27T14:42:32.173842Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:42:33.119164Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:42:33.463782Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:42:33.464392Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:42:33.526843Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:42:33.793283Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:44:25.583626Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:44:25.712350Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:44:25.712553Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 8876
+2024-05-27T14:44:25.739716Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:44:26.641815Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:44:27.013567Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:44:27.014087Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:44:27.063650Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:44:27.339856Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:45:47.405941Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:45:47.410229Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:45:47.410448Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 22260
+2024-05-27T14:45:47.449970Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:45:47.869397Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:45:49.701305Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:45:51.397428Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:46:17.862040Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:46:18.031773Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:46:18.031950Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 18168
+2024-05-27T14:46:18.068722Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:46:18.893501Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:46:19.315048Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:46:19.315362Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:46:19.364955Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:46:19.631824Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:46:48.655097Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:46:48.660299Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:46:48.660507Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 24412
+2024-05-27T14:46:48.698788Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:46:49.102652Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:46:50.899645Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:46:52.542248Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:47:40.906399Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:47:40.911233Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:47:40.911397Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 10144
+2024-05-27T14:47:40.946813Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:47:41.420867Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:47:43.577055Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:47:44.965287Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:48:33.014505Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:48:33.024714Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:48:33.024971Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 19220
+2024-05-27T14:48:33.074416Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:48:33.846432Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:48:35.875067Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:48:37.539989Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:49:02.901899Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:49:03.115262Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:49:03.115564Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 22804
+2024-05-27T14:49:03.153513Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:49:03.994816Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:49:04.331927Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:49:04.332244Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:49:04.390816Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:49:04.661003Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:50:23.955262Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:50:23.960370Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:50:23.960557Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 13620
+2024-05-27T14:50:23.994687Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:50:24.400989Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:50:26.178079Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:50:27.868138Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:50:38.911105Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:50:39.174671Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:50:39.175254Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 3584
+2024-05-27T14:50:39.210965Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:50:40.096973Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:50:40.439473Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:50:40.439776Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:50:40.488487Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:50:40.757515Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:52:00.037675Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:52:00.042926Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:52:00.043117Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 808
+2024-05-27T14:52:00.067502Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:52:00.525470Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:52:02.391843Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:52:04.025203Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:52:14.831566Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:52:15.107142Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:52:15.107425Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 22684
+2024-05-27T14:52:15.148709Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:52:16.012213Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:52:16.382008Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:52:16.382365Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:52:16.442104Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:52:16.708389Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:55:41.535073Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:55:41.539559Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:55:41.539728Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 6360
+2024-05-27T14:55:41.575895Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:55:42.001322Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:55:43.698185Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:55:45.446300Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:55:56.734030Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:55:56.889454Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:55:56.889695Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 5008
+2024-05-27T14:55:56.922988Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:55:57.920853Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:55:58.225977Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:55:58.226325Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:55:58.275261Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:55:58.539989Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:56:44.081943Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:56:44.087356Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:56:44.087538Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 9508
+2024-05-27T14:56:44.118698Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:56:44.539085Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:56:46.412971Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:56:48.026215Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:56:59.773653Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:56:59.919827Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:56:59.920302Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 8984
+2024-05-27T14:56:59.961589Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:57:00.830202Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:57:01.173704Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:57:01.174161Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:57:01.242202Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:57:01.523583Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T14:59:21.565533Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T14:59:21.571358Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:59:21.571649Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 12580
+2024-05-27T14:59:21.613934Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:59:22.318858Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:59:24.188066Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T14:59:25.805296Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T14:59:36.983417Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T14:59:37.164099Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T14:59:37.164274Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 17376
+2024-05-27T14:59:37.191446Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T14:59:38.082172Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T14:59:38.441380Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T14:59:38.441945Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T14:59:38.506713Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T14:59:38.773076Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:07:47.149640Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:07:47.154702Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:07:47.154912Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 15844
+2024-05-27T15:07:47.185980Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:07:47.617721Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:07:49.156995Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:07:51.108025Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:08:03.032568Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:08:03.218762Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:08:03.219000Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 24500
+2024-05-27T15:08:03.251541Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:08:04.236311Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:08:04.602589Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:08:04.603079Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:08:04.661967Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:08:04.933633Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:08:57.048612Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:08:57.052881Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:08:57.053102Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 7052
+2024-05-27T15:08:57.090147Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:09:13.176112Z 0 [ERROR] [MY-012611] [InnoDB] Operating system error number 2 in a file operation.
+2024-05-27T15:09:13.176688Z 0 [ERROR] [MY-012646] [InnoDB] File .\#innodb_temp\temp_1.ibt: 'open' returned OS error 71. Cannot continue operation
+2024-05-27T15:09:13.177625Z 0 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2024-05-27T15:09:55.511543Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:09:55.517316Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:09:55.517510Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 7628
+2024-05-27T15:09:55.559438Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:09:56.048228Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:09:57.751668Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:09:59.502740Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:10:15.937051Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:10:16.112409Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:10:16.112620Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 9112
+2024-05-27T15:10:16.145435Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:10:16.971932Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:10:17.331711Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:10:17.332120Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:10:17.384580Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:10:17.654345Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:12:51.124939Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:12:51.130432Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:12:51.130646Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 12176
+2024-05-27T15:12:51.159687Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:12:51.586055Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:12:53.555696Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:12:55.104583Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:13:12.003345Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:13:12.144389Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:13:12.144583Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 20568
+2024-05-27T15:13:12.184232Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:13:13.113489Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:13:13.457628Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:13:13.458029Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:13:13.512189Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:13:13.782633Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:15:26.855871Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:15:26.860921Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:15:26.861124Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 23112
+2024-05-27T15:15:26.890533Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:15:27.352332Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:15:29.097650Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:15:30.788455Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:15:48.566438Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:15:48.778184Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:15:48.778352Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 7536
+2024-05-27T15:15:48.813167Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:15:49.654400Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:15:50.082681Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:15:50.083454Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:15:50.139786Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:15:50.415929Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:17:46.674175Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:17:46.680637Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:17:46.680848Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 9208
+2024-05-27T15:17:46.712043Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:17:47.128618Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:17:48.878561Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:17:50.597406Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:18:06.722717Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:18:06.915562Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:18:06.915741Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 4012
+2024-05-27T15:18:06.947228Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:18:07.859663Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:18:08.197405Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:18:08.197833Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:18:08.250216Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:18:08.518646Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:24:18.925893Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:24:18.931218Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:24:18.931415Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 19124
+2024-05-27T15:24:18.972888Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:24:19.369951Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:24:21.264440Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:24:22.841156Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:24:38.954404Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:24:39.199601Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:24:39.199913Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 19632
+2024-05-27T15:24:39.228965Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:24:40.146639Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:24:40.561116Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:24:40.561581Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:24:40.614946Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:24:40.884344Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:49:31.155991Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:49:31.162407Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:49:31.162840Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 16680
+2024-05-27T15:49:31.203688Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:49:31.854784Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:49:34.471659Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:49:36.309539Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:50:11.271799Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:50:11.277977Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:50:11.278139Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 21280
+2024-05-27T15:50:11.315753Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:50:11.777367Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:50:13.552277Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:50:15.274811Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:51:59.751683Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:51:59.988528Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:51:59.988779Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 21032
+2024-05-27T15:52:00.032152Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:52:00.773959Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:52:01.264781Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:52:01.266096Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:52:01.439435Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:52:01.703541Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:52:37.157056Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:52:37.269547Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:52:37.269826Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 2852
+2024-05-27T15:52:37.301040Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:52:37.879120Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:52:38.142498Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-27T15:52:38.148067Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-27T15:52:38.273502Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:52:38.273802Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:52:38.327899Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:52:38.591899Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T15:56:29.703624Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+2024-05-27T15:56:29.707629Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:56:29.707789Z 0 [System] [MY-013169] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) initializing of server in progress as process 19056
+2024-05-27T15:56:29.744044Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:56:30.189312Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:56:31.632806Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2024-05-27T15:56:33.805091Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+2024-05-27T15:57:35.717987Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T15:57:35.943961Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T15:57:35.944377Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 23420
+2024-05-27T15:57:35.976400Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T15:57:36.720788Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T15:57:37.132500Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T15:57:37.133402Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T15:57:37.195905Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T15:57:37.471468Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T16:01:51.984629Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T16:01:52.162306Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T16:01:52.162559Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 10120
+2024-05-27T16:01:52.189666Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T16:01:53.053788Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T16:01:53.472023Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T16:01:53.472568Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T16:01:53.542497Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T16:01:53.817587Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T16:02:48.701648Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T16:02:48.927043Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T16:02:48.927342Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 6328
+2024-05-27T16:02:48.954729Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T16:02:49.633842Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T16:02:49.915490Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-27T16:02:49.926745Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-27T16:02:50.058037Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T16:02:50.058952Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T16:02:50.115086Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T16:02:50.380542Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T16:03:21.328859Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T16:03:21.550204Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T16:03:21.550492Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 3820
+2024-05-27T16:03:21.578137Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T16:03:22.253242Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T16:03:22.496577Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-27T16:03:22.501297Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-27T16:03:22.628986Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T16:03:22.629343Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T16:03:22.695126Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T16:03:22.957757Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-27T16:05:04.166002Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-27T16:05:04.363247Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2024-05-27T16:05:04.363603Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 18856
+2024-05-27T16:05:04.396554Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-27T16:05:05.383168Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-27T16:05:05.841804Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-27T16:05:05.842387Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-27T16:05:05.905974Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-27T16:05:06.163406Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

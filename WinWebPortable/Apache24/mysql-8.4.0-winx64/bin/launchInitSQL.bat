@@ -1,0 +1,1 @@
+"mysqld.exe" --defaults-file="../my.ini" --initialize-insecure --console

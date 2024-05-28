@@ -1,0 +1,121 @@
+/* CSS Document */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a
+{
+    color: #000;
+    text-decoration: none;
+}
+
+body
+{
+    background-color: #e6ccb3;
+}
+
+img
+{
+    min-width: 230px;
+    max-width: 230px;
+    max-height: 230px;
+}
+
+.navigation
+{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color:wheat;
+
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+nav
+{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul
+{
+    display: inline-block;
+    list-style-type: none;
+
+}
+
+nav ul li 
+{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.title
+{
+    text-transform:uppercase;
+    font-style: bold;
+    font-family: Verdana;
+
+}
+
+.recipeContainer
+{
+    max-width: 1200px;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+div.formContainer
+{
+    margin: auto;
+    text-align: center;
+}
+
+.col
+{
+    display: inline-block;
+    flex-basis: 23%;
+    min-width: 200px;
+    margin: 20px;
+}
+
+.recipe
+{
+    font-size:20pt;
+    align-content: center;
+}
+
+.recipeCost
+{
+    font-size:20pt;
+}
+
+.searchform
+{
+    padding-left: 30px;
+}
+
+.cart
+{
+    color: blue;
+    font-style: bold;
+    font-family: Verdana;
+}
+
+nav ul li .topLink#cartNum
+{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}

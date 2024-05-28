@@ -1,0 +1,98 @@
+2024-05-21T16:11:10.395411Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-21T16:11:10.475800Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 16840
+2024-05-21T16:11:10.502662Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-21T16:11:10.765449Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-21T16:11:11.127394Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-21T16:11:11.128256Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-21T16:11:11.164370Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-21T16:11:11.430878Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-21T16:33:09.999359Z 156 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:33:18.550887Z 160 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:33:29.208542Z 161 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:34:17.435525Z 184 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:36:08.028774Z 222 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:36:32.375207Z 238 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:37:06.350157Z 257 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:37:16.364232Z 261 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-21T16:38:14.313225Z 296 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2024-05-22T15:27:30.240227Z 0 [System] [MY-013105] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Normal shutdown.
+2024-05-22T15:27:31.590164Z 0 [System] [MY-010910] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.4.0)  MySQL Community Server - GPL.
+2024-05-22T15:27:31.590880Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2024-05-22T15:45:06.161418Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T15:45:06.351213Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 21416
+2024-05-22T15:45:06.378317Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T15:45:06.754118Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T15:45:07.113268Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T15:45:07.113598Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T15:45:07.168038Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T15:45:07.429713Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T15:57:58.830654Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T15:57:58.984857Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 12932
+2024-05-22T15:57:59.003050Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T15:57:59.625139Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T15:57:59.806791Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T15:57:59.810710Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T15:57:59.933889Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T15:57:59.934194Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T15:57:59.991845Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T15:58:00.261688Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T15:58:46.521701Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T15:58:46.601479Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 19828
+2024-05-22T15:58:46.621173Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T15:58:47.144012Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T15:58:47.309355Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T15:58:47.312914Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T15:58:47.427323Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T15:58:47.427653Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T15:58:47.472062Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T15:58:47.748669Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T15:59:39.626235Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T15:59:39.758340Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 12936
+2024-05-22T15:59:39.778047Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T15:59:40.301455Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T15:59:40.465702Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T15:59:40.469340Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T15:59:40.584636Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T15:59:40.585053Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T15:59:40.641425Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T15:59:40.906325Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T16:00:12.209061Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T16:00:12.363307Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 2396
+2024-05-22T16:00:12.405929Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T16:00:13.436899Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T16:00:13.601227Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T16:00:13.604960Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T16:00:13.722182Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T16:00:13.722521Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T16:00:13.765571Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T16:00:14.032730Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T16:08:09.539421Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T16:08:09.824496Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 15180
+2024-05-22T16:08:09.842619Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T16:08:10.466215Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T16:08:10.635378Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T16:08:10.640858Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T16:08:10.746451Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T16:08:10.746765Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T16:08:10.801983Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\RecipeBox\RecipeBoxWebsite\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T16:08:11.071336Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T16:10:20.324096Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T16:10:20.990330Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebProtable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 11856
+2024-05-22T16:10:21.922386Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T16:10:30.816720Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T16:10:31.052045Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T16:10:31.057179Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T16:10:31.167422Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T16:10:31.167773Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T16:10:31.215542Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebProtable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T16:10:31.483841Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-05-22T16:38:51.095491Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2024-05-22T16:38:51.291727Z 0 [System] [MY-010116] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe (mysqld 8.4.0) starting as process 21328
+2024-05-22T16:38:51.374021Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-05-22T16:38:52.455007Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-05-22T16:38:52.892315Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-05-22T16:38:52.901190Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-05-22T16:38:53.078329Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-05-22T16:38:53.079115Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-05-22T16:38:53.191666Z 0 [System] [MY-010931] [Server] C:\Users\lolki\Desktop\WinWebPortable\Apache24\mysql-8.4.0-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-05-22T16:38:53.475461Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
